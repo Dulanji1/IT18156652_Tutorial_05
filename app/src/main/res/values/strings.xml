@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TuteFirebase</string>
+    <string name="h1">Enter your Id</string>
+    <string name="h2">Enter your Name</string>
+    <string name="h3">Enter your Address</string>
+    <string name="h4">Enter your Contact Number</string>
+    <string name="b1">Save</string>
+    <string name="b2">Show</string>
+    <string name="b3">Update</string>
+    <string name="b4">Delete</string>
+</resources>
